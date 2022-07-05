@@ -1,0 +1,20 @@
+////////////////////////////////////////////////////////////////
+    Date: 16/04/2018 12:19:13
+Assembly: TomShane.Neoforce.Controls.dll
+ Version: 1.0.0.0
+ Message: HRESULT: [0x80070057], Module: [General], ApiCode: [E_INVALIDARG/Invalid Arguments], Message: The parameter is incorrect.
+
+////////////////////////////////////////////////////////////////
+   at SharpDX.Result.CheckError()
+   at SharpDX.Direct3D11.Device.CreateTexture2D(Texture2DDescription& descRef, DataBox[] initialDataRef, Texture2D texture2DOut)
+   at Microsoft.Xna.Framework.Graphics.RenderTarget2D.GenerateIfRequired()
+   at TomShane.Neoforce.Controls.Manager.CreateRenderTarget(Int32 width, Int32 height)
+   at TomShane.Neoforce.Controls.Manager.CreateRenderTarget()
+   at TomShane.Neoforce.Controls.Manager.Initialize()
+   at PicrossExplorers.MainGame.Initialize() in E:\Uni\PicrossBackups\5_PicrossExplorers\PicrossExplorers\PicrossExplorers\MainGame.cs:line 131
+   at Microsoft.Xna.Framework.Game.DoInitialize()
+   at Microsoft.Xna.Framework.Game.Run(GameRunBehavior runBehavior)
+   at Microsoft.Xna.Framework.Game.Run()
+   at PicrossExplorers.Program.Main() in E:\Uni\PicrossBackups\5_PicrossExplorers\PicrossExplorers\PicrossExplorers\Program.cs:line 19
+////////////////////////////////////////////////////////////////
+

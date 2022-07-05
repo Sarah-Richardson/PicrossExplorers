@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/font.spritefont</SourceFile>
+  <SourceTime>2018-04-18T13:34:52.2140837+01:00</SourceTime>
+  <DestFile>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/bin/Windows/font.xnb</DestFile>
+  <DestTime>2018-04-18T13:35:15.941213+01:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2017-03-01T15:05:36+00:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2017-03-01T15:05:36+00:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

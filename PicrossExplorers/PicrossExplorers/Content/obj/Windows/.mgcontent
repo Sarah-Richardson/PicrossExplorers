@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/font.spritefont</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/CellSheet.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/CellHoveredOver.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/3.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/4.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/5.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/6.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/7.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/8.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/9.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/10.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/1.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/2.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/win.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/save.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/bronze.jpg</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/gold.jpg</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/silver.jpg</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/logo.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/exit.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/levelButton.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/newLevel.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/back.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/chooseLevel.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/drawLevel.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/menuHoveredOver.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/levelHoveredOver.png</File>
+    <File>C:/Users/ShadowKitten/Desktop/uni/Year 2/Games Programming/PicrossBackups/PicrossExplorers/PicrossExplorers/PicrossExplorers/Content/pattern.png</File>
+  </SourceFiles>
+</SourceFileCollection>
