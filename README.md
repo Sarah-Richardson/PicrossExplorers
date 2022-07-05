@@ -1,4 +1,5 @@
 # PicrossExplorers
+.Net Framework 4.8 VS 2022
 A small picross game, where you can solve puzzels and also make/upload a photo to make your own puzzles.
 
 To get this code set up you need to get MonoGame. Here's the download link: https://community.monogame.net/t/monogame-3-7-1/11173
